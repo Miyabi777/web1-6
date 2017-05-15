@@ -32,10 +32,7 @@ dt{
   -webkit-appearance: none;
   margin: 5px;
 }
-#ingredient{
-  border: 2px solid lightcoral;
-  border-collapse: collapse;
-}
+
 
 caption{
   padding: 5px;
